@@ -1,0 +1,2 @@
+karim_bot:udacity_bot
+-DCATKIN_DEVEL_PREFIX=/home/karim/catk_ws/devel -DCMAKE_INSTALL_PREFIX=/home/karim/catk_ws/install -G Unix Makefiles
